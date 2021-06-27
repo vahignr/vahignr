@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Vahi Guner
-- 👀 I’m an Electrical and Electronics Engineer
+- 👀 I’m an Electrical and Electronics Engineer Working on Artificial Intelligence
 - 🌱 I’m currently working on Machine Learning , Deep Learning , Classical Image Processing
 - 💞️ I’m currently sharing my own small projects
 - 📫 How to reach me : https://www.linkedin.com/in/vahignr/
